@@ -173,15 +173,15 @@ section p {
 }
 
 .header-tab {
-     background-color: #3c3a39;
-     height: 44px;
-     display: flex;
-     width: 100%;
+  background-color: #3c3a39;
+  height: 44px;
+  display: flex;
+  width: 100%;
 }
 
 .tab-title {
-     color: #fff;
-     font-size: 18px;
+  color: #fff;
+  font-size: 18px;
      font-family: 'Roboto', sans-serif;
      padding: 10px 12px;
      margin: 2px 12px;
@@ -551,12 +551,12 @@ ul#information-list li {
 }
 
 ul.information-list-subitems {
-     list-style-type: none;
+  list-style-type: none;
      font-family: 'Inter', sans-serif;
      font-style: normal;
      font-weight: normal;
      font-size: 22px;
-     line-height: 24px;
-     color: #fff;
-     margin-top: 32px;
+   line-height: 24px;
+ color: #fff;
+margin-top: 32px;
 }
